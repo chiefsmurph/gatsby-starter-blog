@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-da1f5d378d53d4c441e1.js",
-      "path---my-second-post-da1f5d378d53d4c441e1.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c18681b5ed23a4e3bf4b.js",
-      "component---src-pages-index-js-c18681b5ed23a4e3bf4b.js.map"
+      "component---src-pages-index-js-a2f9fa0ee06f818a487f.js",
+      "component---src-pages-index-js-a2f9fa0ee06f818a487f.js.map"
+    ],
+    "path---trading-stocks-with-node-js": [
+      "path---trading-stocks-with-node-js-92e4d2542ed9eca8c762.js",
+      "path---trading-stocks-with-node-js-92e4d2542ed9eca8c762.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -17,29 +17,21 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-a4714a24b13f2513c866.js",
-      "component---src-templates-blog-post-js-a4714a24b13f2513c866.js.map"
+      "component---src-templates-blog-post-js-1360c5c8c9269ddaec39.js",
+      "component---src-templates-blog-post-js-1360c5c8c9269ddaec39.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1e48bcc3fd9eb9565754.js",
-      "component---src-layouts-index-js-1e48bcc3fd9eb9565754.js.map"
-    ],
-    "path---hi-folks": [
-      "path---hi-folks-e70647031518a48418c7.js",
-      "path---hi-folks-e70647031518a48418c7.js.map"
+      "component---src-layouts-index-js-619d61f86a3973c94d67.js",
+      "component---src-layouts-index-js-619d61f86a3973c94d67.js.map"
     ],
     "path---index": [
-      "path---index-fb7920b02446c87b3d44.js",
-      "path---index-fb7920b02446c87b3d44.js.map"
-    ],
-    "path---hello-world": [
-      "path---hello-world-ee16656ddc9207bf6d5d.js",
-      "path---hello-world-ee16656ddc9207bf6d5d.js.map"
+      "path---index-ea20b965b66c7c5beb35.js",
+      "path---index-ea20b965b66c7c5beb35.js.map"
     ],
     "commons": [
-      "commons-eb9b51bc70c809397d12.js",
+      "commons-e73459728ff64e648635.js",
       "build-js-styles.css",
-      "commons-eb9b51bc70c809397d12.js.map",
+      "commons-e73459728ff64e648635.js.map",
       "build-js-styles.css.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
@@ -47,9 +39,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-59a9528c55717d085927.js",
+      "app-dce6d1ddb49879c2d667.js",
       "build-js-styles.css",
-      "app-59a9528c55717d085927.js.map",
+      "app-dce6d1ddb49879c2d667.js.map",
       "build-js-styles.css.map"
     ]
   }
