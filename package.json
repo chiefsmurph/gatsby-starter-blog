@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "pennytraderlifestyle.com",
+  "description": "penny trader lifestyle is a website all about programmatic challenges",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
-  },
+  "author": "John Murphy <chiefsmurph@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.218",
     "gatsby-link": "^1.6.37",
