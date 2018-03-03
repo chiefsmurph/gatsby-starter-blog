@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'penny trader lifestyle',
     author: 'John Murphy',
-    description: 'The best blog ever.',
+    description: 'Dedicated to the penny stock trading strategies.',
     siteUrl: 'https://www.pennytraderlifestyle.com',
   },
   pathPrefix: '/',
