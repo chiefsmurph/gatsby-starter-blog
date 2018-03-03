@@ -5,14 +5,14 @@ Wordpress2016.overrideThemeStyles = () => ({
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',
   },
-  'code': {
-    backgroundColor: '#ccc',
-    display: 'block',
-    padding: '1em',
-    overflowX: 'scroll',
-    lineHeight: '1.5',
-    fontSize: '92%'
-  },
+  // 'code': {
+  //   backgroundColor: '#ccc',
+  //   display: 'block',
+  //   padding: '1em',
+  //   overflowX: 'scroll',
+  //   lineHeight: '1.5',
+  //   fontSize: '92%'
+  // },
   'h2': {
     textDecoration: 'underline',
   }
