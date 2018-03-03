@@ -30,7 +30,7 @@ What I realized was that this was not necessarily a strategy for just picking st
 
 At this point, I began interfacing with the Robinhood API to purchase stocks on a daily basis utilizing this pattern-predict strategy. I had my eye on Robinhood from the very beginning as it is free to trade and has a (somewhat - [thanks Sanko](https://github.com/sanko/Robinhood) public API. I added support for promises so I could use ES6/7 async await syntax. Everybody pointed out that I need to back-test this strategy so I added another step that goes back over the last year, runs this strategy for each of the days of the last year and then checks whether the strategy chose correctly. This was exciting because it took about 5-10 minutes to generate the "strategy test results" for each stock (hours total for the first run). This is the first time where I've written code that was particularly CPU intensive. Utilizing the Node.js module **cluster** to take advantage of multiple cores was rewarding as it cut down the time to process these initial strategy test results down drastically.
 
-```
+```javascript
 example of one stocks' strategy test results
 
 [
@@ -125,7 +125,7 @@ I began watching Youtube videos, reading articles and visiting forums on stock t
 
 I also discovered [Fizbiz](http://fizbiz.com/) which is a popular website for screening stocks in similar ways to how I am doing manually using the Robinhood API. The number of options is astounding and the fact that it happens instantly is nice too.
 
-```
+```javascript
 const config = {
     RUN: [2, 12, 75, 120, 180, 380],
     QUERIES: {
