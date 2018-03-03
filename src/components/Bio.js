@@ -20,9 +20,8 @@ class Bio extends React.Component {
           alt={`John Murphy`}
           style={{
             marginRight: rhythm(1 / 2),
-            marginBottom: 0,
+            marginBottom: rhythm(1 / 2),
             width: '200px',
-            height: '200px',
             float: 'left',
             maxWidth: '40%'
           }}

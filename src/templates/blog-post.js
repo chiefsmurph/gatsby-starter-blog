@@ -59,6 +59,8 @@ class BlogPostTemplate extends React.Component {
             </li>
           )}
         </ul>
+
+        <Link to={'/'}>click here to go home</Link>
       </div>
     )
   }
