@@ -32,7 +32,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            pennytraderlifestyle.com
+            penny trader lifestyle
           </Link>
         </h1>
       )
@@ -54,7 +54,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            pennytraderlifestyle.com
+            penny trader lifestyle
           </Link>
         </h3>
       )
