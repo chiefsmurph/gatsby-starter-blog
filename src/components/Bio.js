@@ -12,7 +12,6 @@ class Bio extends React.Component {
     return (
       <div
         style={{
-          display: 'flex',
           marginBottom: rhythm(2.5),
         }}
       >
@@ -24,6 +23,7 @@ class Bio extends React.Component {
             marginBottom: 0,
             width: '200px',
             height: '200px',
+            float: 'left'
           }}
         />
         <p>
