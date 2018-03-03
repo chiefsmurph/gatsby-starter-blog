@@ -23,7 +23,8 @@ class Bio extends React.Component {
             marginBottom: 0,
             width: '200px',
             height: '200px',
-            float: 'left'
+            float: 'left',
+            maxWidth: '40%'
           }}
         />
         <p>
