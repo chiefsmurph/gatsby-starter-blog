@@ -12,7 +12,7 @@ class Bio extends React.Component {
     return (
       <div
         style={{
-          marginBottom: rhythm(2.5),
+          marginBottom: rhythm(0.5),
         }}
       >
         <img
@@ -27,10 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>John Murphy</strong> who currently lives in the Bay Area and enjoys spending his time working on a computer program (Node.js) that trades penny stocks.  Also trades by hand with short, medium and long term holds.&nbsp;
-          <a href="https://docs.google.com/spreadsheets/d/1ydLDpaiw8cknf1Z5Ymk_xXLvg5tMiQd6kUVD2wQTJnQ/edit?usp=sharing">
-            Click here to view his current portfolio balances and active trades in play.
-          </a>
+          Written by <strong>John Murphy</strong> who currently lives in the Bay Area and enjoys spending his time working on a computer program (Node.js) that trades penny stocks.  Also trades by hand with short, medium and long term holds.  If this website suddenly disappears, it means that I lost all my money in the stock market.&nbsp;
         </p>
       </div>
     )

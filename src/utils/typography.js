@@ -13,6 +13,9 @@ Wordpress2016.overrideThemeStyles = () => ({
     lineHeight: '1.5',
     fontSize: '92%'
   },
+  h3: {
+    marginTop: '5px !important',
+  },
   'h2': {
     textDecoration: 'underline',
   }
