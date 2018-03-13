@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[penny trader lifestyle]]></title><description><![CDATA[Dedicated to the penny stock trading strategies.]]></description><link>https://www.pennytraderlifestyle.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 13 Mar 2018 06:59:38 GMT</lastBuildDate><item><title><![CDATA[Robinhood Node.js Bot Day Summary for 3-12-18]]></title><description><![CDATA[How did things go today? Burrito Wrap Up Up 2.12%, not bad.   Something that I like to see is the performance of based-on-jump-tenTo15…  You…]]></description><link>https://www.pennytraderlifestyle.com/day-wrapup-3-12-18/</link><guid isPermaLink="false">https://www.pennytraderlifestyle.com/day-wrapup-3-12-18/</guid><pubDate>Mon, 12 Mar 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;How did things go today?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[penny trader lifestyle]]></title><description><![CDATA[Dedicated to the penny stock trading strategies.]]></description><link>https://www.pennytraderlifestyle.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 13 Mar 2018 07:02:16 GMT</lastBuildDate><item><title><![CDATA[Robinhood Node.js Bot Day Summary for 3-12-18]]></title><description><![CDATA[How did things go today? Burrito Wrap Up Up 2.12%, not bad.   Something that is worth to bear in mind is that this is being calculated after…]]></description><link>https://www.pennytraderlifestyle.com/day-wrapup-3-12-18/</link><guid isPermaLink="false">https://www.pennytraderlifestyle.com/day-wrapup-3-12-18/</guid><pubDate>Mon, 12 Mar 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;How did things go today?&lt;/h1&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -100,7 +100,8 @@ overall
       &lt;/div&gt;
 &lt;h2&gt;Burrito Wrap Up&lt;/h2&gt;
 &lt;p&gt;Up 2.12%, not bad.  &lt;/p&gt;
-&lt;p&gt;Something that I like to see is the performance of based-on-jump-tenTo15…  You can see the big pick of the day was NETE which was a based-on-jump-tenTo15 pick:&lt;/p&gt;
+&lt;p&gt;Something that is worth to bear in mind is that this is being calculated after hours.  And these stocks are not necessarily going to be sold right in the morning, so they will undoubtably flunctuate tomorrow before they are sold or held for another day.  Currently it sells 50% of the stares of stocks that were purchased 1 day ago and the remaining shares the following day.  &lt;/p&gt;
+&lt;p&gt;Encouraging to see is the performance of based-on-jump-tenTo15…  You can see the big pick of the day was NETE which was a based-on-jump-tenTo15 pick:&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
