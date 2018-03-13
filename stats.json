@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
+    "path---day-wrapup-3-12-18": [
+      "path---day-wrapup-3-12-18-2be3646ba16058a7b574.js",
+      "path---day-wrapup-3-12-18-2be3646ba16058a7b574.js.map"
+    ],
     "path---why-i-am-long": [
-      "path---why-i-am-long-2a03400abdb06d75e7c5.js",
-      "path---why-i-am-long-2a03400abdb06d75e7c5.js.map"
+      "path---why-i-am-long-3403102018fce5c0354a.js",
+      "path---why-i-am-long-3403102018fce5c0354a.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1e891aee51aed0a168cf.js",
-      "component---src-pages-index-js-1e891aee51aed0a168cf.js.map"
+      "component---src-pages-index-js-632234fd398ecb9d328c.js",
+      "component---src-pages-index-js-632234fd398ecb9d328c.js.map"
     ],
     "path---trading-stocks-with-node-js": [
       "path---trading-stocks-with-node-js-e48d9e33344c116e5ec0.js",
@@ -21,16 +25,16 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-02770a5dbe48df547d84.js",
-      "component---src-templates-blog-post-js-02770a5dbe48df547d84.js.map"
+      "component---src-templates-blog-post-js-6bf199497532984de3d1.js",
+      "component---src-templates-blog-post-js-6bf199497532984de3d1.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-6ba9b9e9f2f080bf5c62.js",
       "component---src-layouts-index-js-6ba9b9e9f2f080bf5c62.js.map"
     ],
     "path---index": [
-      "path---index-444bdb09a87da9077af3.js",
-      "path---index-444bdb09a87da9077af3.js.map"
+      "path---index-8d1c8e8c85269cb461c8.js",
+      "path---index-8d1c8e8c85269cb461c8.js.map"
     ],
     "commons": [
       "commons-e73459728ff64e648635.js",
@@ -43,9 +47,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2196f4f667f21471b66c.js",
+      "app-556d54b75d427a3079f3.js",
       "build-js-styles.css",
-      "app-2196f4f667f21471b66c.js.map",
+      "app-556d54b75d427a3079f3.js.map",
       "build-js-styles.css.map"
     ]
   }

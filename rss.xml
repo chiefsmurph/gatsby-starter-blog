@@ -1,4 +1,484 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[penny trader lifestyle]]></title><description><![CDATA[Dedicated to the penny stock trading strategies.]]></description><link>https://www.pennytraderlifestyle.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 10 Mar 2018 21:10:48 GMT</lastBuildDate><item><title><![CDATA[Why everybody (including myself) have been recommending you buy BPMX and AKER]]></title><description><![CDATA[If you spend just a minute browsing  penny   trading  forums online, you will undoubtably soon find that the internet is buzzing about two…]]></description><link>https://www.pennytraderlifestyle.com/why-i-am-long/</link><guid isPermaLink="false">https://www.pennytraderlifestyle.com/why-i-am-long/</guid><pubDate>Sat, 10 Mar 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;If you spend just a minute browsing &lt;a href=&quot;https://www.reddit.com/r/RobinHoodPennyStocks/&quot;&gt;penny&lt;/a&gt; &lt;a href=&quot;https://www.reddit.com/r/pennystocks/&quot;&gt;trading&lt;/a&gt; forums online, you will undoubtably soon find that the internet is buzzing about two biotech stocks in particular: BPMX and AKER.  These two stocks have been my main holds for the past few months.  In this article I would like to document why I think they are great holds in the short-term and long-term.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[penny trader lifestyle]]></title><description><![CDATA[Dedicated to the penny stock trading strategies.]]></description><link>https://www.pennytraderlifestyle.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 13 Mar 2018 06:59:38 GMT</lastBuildDate><item><title><![CDATA[Robinhood Node.js Bot Day Summary for 3-12-18]]></title><description><![CDATA[How did things go today? Burrito Wrap Up Up 2.12%, not bad.   Something that I like to see is the performance of based-on-jump-tenTo15…  You…]]></description><link>https://www.pennytraderlifestyle.com/day-wrapup-3-12-18/</link><guid isPermaLink="false">https://www.pennytraderlifestyle.com/day-wrapup-3-12-18/</guid><pubDate>Mon, 12 Mar 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;How did things go today?&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-858f6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 36.01731601731602%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAABIklEQVQoz11Q2W7DMAzL5xS9Itupc/pKmrZYsf7/33CS62bDHghRtEJRqay1EGitYYyBZhjmNPU4zw6nW0AdRsbwrm6A6mye2aA0Gm2w3x9Ree+xrms21H8MddNAXwoKV/YCbZvNKOs8X48diJft6hrVjc2+nk8opX4Hi6kpWs1pqW9BQ7dxMREuVbW8iLUdEarH/Y6wXkFySmtzElPOp6HNp5MkYLOciFMKF01mTFnemH8nny8GhzTi6HuceosTm515c826qukNKvj0fIGAGPLLdvsDqpQiXq9vBOcQQkBkhGWGe6xIn74gRkFE5G+khu3N517pBhWRwsRmMSUEFp0PmCaHaXRwzsOHmN+W5co85HfHV8mM6PO8IKUZwzByUoMf2yzmsr+Gmq4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trendline&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-fb8a0.png&quot;
+        srcset=&quot;/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-1a291.png 148w,
+/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-2bc4a.png 295w,
+/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-fb8a0.png 590w,
+/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-526de.png 885w,
+/static/2018-03-12screenshot-5147bc3473f625488813f464a221a86d-858f6.png 1155w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;node analysis&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;run day&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;report
+
+report &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;2018&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;json
+Strategies
+
+fizbiz&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;nanoEarlyRunners
+total invested&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;86.88536819999999&lt;/span&gt;
+dollarChange&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.7535681999999895&lt;/span&gt;
+avg trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.7269999999999994&lt;/span&gt;
+tickers&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;RAS&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;SCYX&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;NVCN&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;CTRV&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;SCYX&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;CRMD&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;RAS&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;CTRV&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;CRMD&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;NVCN&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+actual trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3.17&lt;/span&gt;
+
+week&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;swings
+total invested&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;41.298995399999995&lt;/span&gt;
+dollarChange&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.2589953999999972&lt;/span&gt;
+avg trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.5800000000000001&lt;/span&gt;
+tickers&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;YTEN&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;GENE&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;QUMU&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;YTEN&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;GENE&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;QUMU&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;YTEN&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;GENE&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+actual trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.63&lt;/span&gt;
+
+based&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;on&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;jump&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;tenTo15
+total invested&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;31.5039291&lt;/span&gt;
+dollarChange&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;8.9960709&lt;/span&gt;
+avg trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;28.56&lt;/span&gt;
+tickers&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;NETE&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+actual trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;28.56&lt;/span&gt;
+
+stockinvest&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;undervalued
+total invested&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;25.174754999999998&lt;/span&gt;
+dollarChange&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.039754999999997764&lt;/span&gt;
+avg trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;0.07166666666666664&lt;/span&gt;
+tickers&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;BIOS&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;SID&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;MYO&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;SID&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;SFUN&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;BIOS&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+actual trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.16&lt;/span&gt;
+
+fizbiz&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;under5TopLosers
+total invested&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;47.87094109999999&lt;/span&gt;
+dollarChange&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1.0081410999999938&lt;/span&gt;
+avg trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.1666666666666665&lt;/span&gt;
+tickers&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;ANTH&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;OREX&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;SSKN&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;SINO&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;SINO&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;OREX&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;ANTH&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;MBII&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;SSKN&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+actual trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.11&lt;/span&gt;
+
+overall
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; totalInvested&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;232.73398879999996&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  dollarChange&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4.935611200000022&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  trend&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2.12&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;Burrito Wrap Up&lt;/h2&gt;
+&lt;p&gt;Up 2.12%, not bad.  &lt;/p&gt;
+&lt;p&gt;Something that I like to see is the performance of based-on-jump-tenTo15…  You can see the big pick of the day was NETE which was a based-on-jump-tenTo15 pick:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/rh-top-3b02c9f88d44264760f703d332bde360-d30b5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 120.89783281733746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAAsSAAALEgHS3X78AAAGYUlEQVQ4yyWVa3DUVxnG/6OO47RaR4TaKRWKlFhaoQqd0jhY2k4r0ypIywCx5Eoum+zmShI2ye4me8lesrvZ7P1+3+xmL9mEbEKgAVuYilblgx+cqTLjdOyopQXkUgVKLz+P9sMz7/uf/5nnvOd5n/Me6c7HH3Pr9h1uX7vK9ev/5OaNa9z69w0+EvHGtSv868oHvH/pEu9fucYnd27y2Se3+PzTW9z9X/7pf/j8s9vAXT68cok/X7yI9I+/vcvFd95heX6F5FKZ8pkL5BZ+Q2b+PFmBXPksqfwZVMYZFINRhnR51PoSKm2REU0BlcDgQJZCfoX33nsXqe2ZR6jbWcX+YxGOmE/SYalQP1qiRTfLS+0J9nVm+LksyX1bNEhrepBWdyPdp0C6V450j8DXBKQWnn+2jcuX/y4Iq9dSu2M9j9eM88PWKBv2T7HnaJLeiVm2iPxLW1Xcu03Dmqe0rNk+xipBvHabjtWPqvjy6l6+8i2xgdTB7p/K+ejmZaTqTfeza8t65JY0/f6TdDoq9DqXGfC8Tq99kR5zmQHrEkOTJ+k3L9Ipjtg3VkShnGF/Y4g9NS72Hgqxb08TZpMeaeNDq9j2g0ewxuexJpfwFt8kUvk9yeU/Epw9jyU4j3f6TeJzF4gUfos9tITJWcTiLOEMVDDZpzFZpzl0sIFX9u1F2vzwd9j66AZqh510uxc46l+m01pAbsrSac7TaZqhxzLLgK3CUctxlEZRsXGOo+Nz9Ovn6BxK06cpc/i1dhrqDwvCh9awtWo9CrGTOv1rhhNvUafLUavJ0CS6WTuSRmZaosO8TLtxmUFlFvlQgSZlAdnIPIflEVoG59izt5Gag68iPfjtb7Jx3QN0GM1oEilG40mU3hCDrgBKdxilK4TaF0ftiaF2x9C44mimRHREUdvDaOxRRu1x2uUKlGOjSBseXMt3H7ifEesAwTkv8RMhTBEdOq+KiZgBc1iPN+/ANzOJL+dAmxzCkhjFm7DjTdrQ24dwxyyo1H0E00WkqrXrqP7+JnRRL7ZyDnMuxUjAhcrvQhcLMuJ1oosE0UdC6EMBdAE/er8fgy+AwSNylw+928/wsJJioYC0btXXkTU1MBiZp9UjxE6fo8leoNaQoslSpGE8R5ttAYXzdeTCOk22LC3GIjLdHHJjRWiZonGoRGHhvLiGd5G+cc9XqW+ox3P6D6iLv0IjrpnMnUfmytMVXKDdUaDHt0i3p0K3SxBPFem0legSxu+eEF025JBpC0zPnubyB+KmPP29Vbzy0nMccxvQTzvEsQNo41ZUPiOjQTOjARMTaSf2nJAk48EgdDMnHFiiYm3cidEnvgNWXOEU5cp5pIEXq3jxRxuxznjIvZUnvpLAmDIznjBhy02iDehwFV24i25ceaFrVoclMyHIrDgzk0JHLZPRCdQWnRggRqSe5zbywvYqXjNN0h2bZiA7T3d4GoWwSpc/icIdpy+YYzBaoj9UEk0qCDvl6PfkGRCyDExlBYQ8Y06OGRxInc9u+D9hq18snjuPauECDd7j1E2VaA6coNY6Q1twBXn0LLLwWVTjeXoNBRptwuyO09RpZmger4jGJGlVJpA6nnmYnzyxiTaPG/WsmHWlGfrjMY5GIhxLJOjzC4MLs6vS06gSaUYSGUZiGdQRkQeTqIMpVIEMw1YzJpcYDj97ajOPP7aZEZ8a3wkf0TdimLImtDEtEzkLhrgeZ9mBf9GLd8FDKqYnHDcIcxvxFBwYAmNMZcwMTNjo0gWRdm5/giONdXjPlHGs5LGdyDI6E2BMwFCMoE66MRYiX2AmjHk6gikTZjwdFM0TSArDx334MgWWT/8O6fmnn2Tvy7upnQzTkl6ib+ltjsQr1Anxj4QXaArM0Z5YoWv6HIrUGzTHjtMqRlh74BRyoW3zREmYfRGDM8pf//InpBd+/CTVosq+TBntmbcZXjpLS7xEa6yEIruMLFqmK3uKrvRJupLLtCXLtEfnUQjTK4IVOlwFWh2zaCwe8aB9iLR75w52VW+n16fFtBTBdS6LcSGITvjOfDzIeMmLfSmKeyWN81SK0GwQbznE1GIc90ICWyGIfTaMw+/k5vUbX1S4a8c26uW1yJRttAkcUtRwUHaAQ+0H+GVHDXU9tTT01lHXW0974z6am/eL/4c4IOL+ul/Q0lPP+LiGq1eu8l8lodnfS3I2LwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;rh-top&quot;
+        title=&quot;&quot;
+        src=&quot;/static/rh-top-3b02c9f88d44264760f703d332bde360-fb8a0.png&quot;
+        srcset=&quot;/static/rh-top-3b02c9f88d44264760f703d332bde360-1a291.png 148w,
+/static/rh-top-3b02c9f88d44264760f703d332bde360-2bc4a.png 295w,
+/static/rh-top-3b02c9f88d44264760f703d332bde360-fb8a0.png 590w,
+/static/rh-top-3b02c9f88d44264760f703d332bde360-d30b5.png 646w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;And up 3% after hours.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/nete-cd01b0cc90546e1e523e996b8fbe1f1b-445ad.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.64591439688716%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAABuUlEQVQ4y5VS21KsMBDM/3+bPrmrpaunUJDlToDlmks7EzbInodzlKquTEKmp6czAr/4rLX/hcjSFEEQ4Hw+O0RRhDzPcXp9xfHxEYeHA56fX5Cm2c8IiyJHGIaUkKKqKhRFibqWKGn1BZqmhVLKJXile8X7WHDS3d09DocjKlkgat7wlj8hKF8Qt+84Jvco+vSG6F+xuFwuKKnFRjaQjUQqY3zWIRJax2nENBOWCfM8wxjjklktf7zXWt/Ewgw9lugdKktg6aCuaqiF2jMWWZY5ommakSQJlmVxYI+ZuOs6d4djFsZ7YYjEcuVrdbu1sPfLXlVYV4BJucDpdEIcxyjL0il0LXuz99CUqDQlq5Ws6gw+CkKu0LQtOkK7g5TSFdoIubIhIl6ZIJEGx1Dhs9JEpMlXg3G2TsU4TgTydZo2DMOwTYFg+WtL32r+ZJoeYlVZX8z2jwlXT6cbcIGNUGuFc62RN9q1GpMqrVcS75+3ggn/JvOE/MKyriH4BYt2JQwy8mjQjoRJ+ZKz4zoSDE7mFhk+7vseLIxj4ZL0Aq3ma1vaVfUzx7GfNbbH+8XnPCocsw18zve/AJeY82EZQt6TAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;nete&quot;
+        title=&quot;&quot;
+        src=&quot;/static/nete-cd01b0cc90546e1e523e996b8fbe1f1b-fb8a0.png&quot;
+        srcset=&quot;/static/nete-cd01b0cc90546e1e523e996b8fbe1f1b-1a291.png 148w,
+/static/nete-cd01b0cc90546e1e523e996b8fbe1f1b-2bc4a.png 295w,
+/static/nete-cd01b0cc90546e1e523e996b8fbe1f1b-fb8a0.png 590w,
+/static/nete-cd01b0cc90546e1e523e996b8fbe1f1b-445ad.png 771w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fizbiz-nanoEarlyRunners-12&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.6720000000000006&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;NVCN, RAS, CTRV, CRMD, SCYX&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Here are the top performing strategies of the days.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;node analysis&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;run strategy&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;perf&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;today
+&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;based-on-jump-tenTo15-30&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;30.04&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;NETE&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;based-on-jump-tenTo15-5&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;28.7&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;NETE, INNT&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;based-on-jump-tenTo15-16&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;26.44&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;NETE&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;big-day-trend-up-fiveTo10-10&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;5.68&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;VRAY, PIRS&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fizbiz-nanoEarlyRunners-120&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4.264&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;MARA, SCYX, AVGR, DARE, CRMD&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fizbiz-nanoEarlyRunners-180&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4.162&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;MARA, SCYX, AVGR, DARE, CRMD&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;up-streak-lt$3-upstreak-3-up1overnight-45&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3.3160000000000003&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;CAPR, SGRP, ZX, BLNK, ENG&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;week-swings-1&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3.166666666666666&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;YTEN, QUMU, GENE&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;I find this encouraging because it also has been the top performing strategy when I go back 3 days and 7 days.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;node analysis&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;run strategy&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;perf&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;overall
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/topstratsoverall-9262bc5339ec3a06a63aa9682b0a9f6a-8e918.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 21.40625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAA0ElEQVQY0zWP227DIBBE/f8fl1ZJVKvcwcmLAZu4frBsl+mybZFGjBb2zG4npISUGtY67PuOWivrOA7cb3f0/SeWZYFzjhVCwDAMpAd7Yywc9T6fD6zrik4oBUHAFzU10P+p9RvX6w2XyzumeWaIdx5CCJbWBt57BB8ITG98B3StKKSCUhrjGPFFKU3btqH/6An4hpQyf24TWmthtCb/Cxv+6i2shXYxJR6/lILzPGntg9Y92be6IUApL0x5Qs6ZQkfEGNmXuXA9xpFCE1JM+AEiziibJhiRJwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;topstratsoverall&quot;
+        title=&quot;&quot;
+        src=&quot;/static/topstratsoverall-9262bc5339ec3a06a63aa9682b0a9f6a-fb8a0.png&quot;
+        srcset=&quot;/static/topstratsoverall-9262bc5339ec3a06a63aa9682b0a9f6a-1a291.png 148w,
+/static/topstratsoverall-9262bc5339ec3a06a63aa9682b0a9f6a-2bc4a.png 295w,
+/static/topstratsoverall-9262bc5339ec3a06a63aa9682b0a9f6a-fb8a0.png 590w,
+/static/topstratsoverall-9262bc5339ec3a06a63aa9682b0a9f6a-8e918.png 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;nanoEarlyRunners&lt;/h2&gt;
+&lt;p&gt;There is irony in that of the “nanoEarlyRunners” stocks that the bot purchased, those picks trended down 3.17%…but if you look at the top performing strategies of the day it includes a couple nanoEarlyRunners strategies.  (They are listed as [strategyName]-[minAfter630Runtime])  That is because I had enabled a 3x multiplier at the 12 minute runtime… see:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;strategyName&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fizbiz-nanoEarlyRunners-12&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.6720000000000006&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;picks&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;NVCN, RAS, CTRV, CRMD, SCYX&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;Another great thing about today&lt;/h2&gt;
+&lt;p&gt;Is that it beat out the market!!  Yeah !!  Go bulls!  Go bots!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/charts-51e7357e56683348cf7357468679cf80-84492.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 425px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 48.23529411764706%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAACZUlEQVQoz4WSy09TQRjF+z+4Na4k0YWJKx/BjXFDookhcYEiqBgj4SEQIqKkxbhw68aNG40xcSEJRhEQChRoL6WlvCIBC5TyuKW37S0t0HIfbfk5fcSVid/k5Ds5Mzlz5stY/BsJml/O0do9S6t1hrYuL+3Pp2nvmMJqm8bW5cb6zEV3h5NXArYnDqwNI9jq7XQ/GuZ14wjdNf1M2wPAMRb3fIRzNxzUtvs4XT5A2cU+zl74xpnzvVRcH+B21RD3q4e5U9lP5bWvlJd94tKpD1w5+Z7LJ97xRlz2+GoPX976yJfFtxTjZpOHus5ZatpmuNfi5UHzNHWNUzysl2holHjR6eFpi4v62hEa7tppqh6iuWqQ5lv9dNYM0VDRy+DnpaLh3PIeM78UwvI6xzmDo/Q+un5ILqujaQcYRpr/VTKu4fi+KlgOy8LvOB/7ZEbdIexSGLszxGgBQpvYYXR8G8mtIE2FkZy7SJMh3CVIYzt4JmV+9qwy3r9WNEynNWLJLLFEEUpMR4mbxOIZ1HxXTRTliFhUR40ZqKohuEYknEJVNFTB4xGN1KGGaRpYNE3D718huBlgazNQfMOujLy9iby7IwwiBWljf0vsbxBYXyWRUAuaX11nezNIMBggmUySyWTyCdMszM7hGh0Th4uG+vwiix4vXpfEyvJKQZsKLeLxzfBjaEAYb5EVX8QR8OD1enE4J4hGo2SzWSy6rsNeQqQKixHkignDCigimRz6qwUPQoRSUTYOZGGWE+uYteQ2cirCTkoh72MYpSfniSHiFnqBmxhmCSUtY2YwDVPM6R+awFHJ5w8oE6ohZxbpMgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;charts&quot;
+        title=&quot;&quot;
+        src=&quot;/static/charts-51e7357e56683348cf7357468679cf80-84492.png&quot;
+        srcset=&quot;/static/charts-51e7357e56683348cf7357468679cf80-34d47.png 148w,
+/static/charts-51e7357e56683348cf7357468679cf80-87520.png 295w,
+/static/charts-51e7357e56683348cf7357468679cf80-84492.png 425w&quot;
+        sizes=&quot;(max-width: 425px) 100vw, 425px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Tomorrow&lt;/h2&gt;
+&lt;p&gt;Tomorrow I am going to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;increase the amount of time between checks in &lt;code&gt;app-actions/activeBuy&lt;/code&gt; because perhaps it is being too aggressive with the increases in price in trying to secure that filled order.  Also I am going to&lt;/li&gt;
+&lt;li&gt;turn up the based-on-jump-tenTo15. I am sorry I doubted you, strategy-perf-overall.  Lastly I am going to&lt;/li&gt;
+&lt;li&gt;diversify the min increments of nanoEarlyRunners&lt;/li&gt;
+&lt;li&gt;set the sell time to a later time.  now that there is a decent buffer to work with - only 50% of the account’s funds are in use - there will still be enough available to purchase the strategies that run before it executes its sells of the day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;modules&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;additional&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;cron
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/additional-7294e5212f7be5649c27af6a43f3c6bf-2556a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 383px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.15665796344646%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAACcklEQVQ4y21U25aiMBD0X0bljlwCCYRwEwF1ZnyY3f//lNpORNQ981CnKwlWulPdbpwwR8QqWG6CnRMb2D7D3klXWCYmS1y4l5rvHnisN7afwSVRLVzWE3h1wj7MwFqJpJFICXFdgjUlQlms+26UY0viH/ZTXMfNnSRGsD/dkKkJWS6h2hLHQaJQAhPFtBD4miuoXmEea6iKIATGtoUd5M8MNdlTud6Box6+4LMaXT+jbU44j1fIssPndEEhB0xtjyji4IwjYwIi42gqRcnwp6ATZEZMlx3zlkoRVPZoSi+aM7JyAK9ncBI8ZA12dPnWTSmmJn7Y8XvJWojLoyl7Z0cmWx23lsYB2wfXZ2SYRSI2/dBaYHvM7D0zJMEwkeYjn7LT2doBgxfnT0QamTHCT7SB+pzWh2zlOq6m6KxcEhovP1DHbwT0PvW1QVoX4EOFhNxNKnKY3K1vneHyXEOcKsPVF31bSThkzuZRu35L1Z7hkSmtajB1A/y4NJdZnu61zPC9m96he3Ep1TzD0o+roC63bC845A1acruhFjpONwznH1p/mr0j8en6B9PnXyR5bS54bWxT8jopS5YaptFf+GP96AbvIMz6/2kxGQbR/fC+kd7hpSu3vF/gvk/Hm+DOp5ZwY3zoMXKW3lridnkv66W03+b3TbBh32ChQldk6Gm8BGNoRA7Fc0jiQSIQZNXae78JvwlW6QV5eUNHY6ZKiXm64jqdaV5njIP+szgiZQPClN5ZZ6XLfcUyunowdNxs3QguH+GIC+KoQN9c0JDbSs04dTTLokcVdZDkfkiG2EkJh8QdGgafuDZKD0ZALXZIJf4BBl/+H7Ivd4cAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;additional&quot;
+        title=&quot;&quot;
+        src=&quot;/static/additional-7294e5212f7be5649c27af6a43f3c6bf-2556a.png&quot;
+        srcset=&quot;/static/additional-7294e5212f7be5649c27af6a43f3c6bf-60e42.png 148w,
+/static/additional-7294e5212f7be5649c27af6a43f3c6bf-8f7fe.png 295w,
+/static/additional-7294e5212f7be5649c27af6a43f3c6bf-2556a.png 383w&quot;
+        sizes=&quot;(max-width: 383px) 100vw, 383px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;The Future&lt;/h2&gt;
+&lt;p&gt;I was going to do this tonight, but then I wrote this “article”.  I might do it now, but if it doesn’t happen within 5 minutes I going to go watch Seinfeld.  This thing that needs to happen in &lt;em&gt;The Future&lt;/em&gt; is that there needs to be a strategy that just purchases the 5 cheapest stocks available on Robinhood.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;JRJR&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.16&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;NVCN&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.176&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;TOPS&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.1986&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;ALN&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.2083&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;CTRV&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.22&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;ENRJ&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.2298&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;ticker&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;RAS&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;price&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.235&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;When I look at that list of stocks, I see a list of tickers that nobody should be ashamed of.  TOPS and ENRJ and RAS and JRJR all have been doing well.  And NVCN is something that I think has long-term and short-term potential.  &lt;/p&gt;
+&lt;p&gt;So I am curious how this strategy would perform?&lt;/p&gt;
+&lt;p&gt;The tricky part I have had with it is that executeStrategy is set up to run each strategy at $5 increments and that is not desired in this case.  There could be a direct call to recordPicks but I think to do it right it is going to need some re-factoring.  That is all I am going to say about that.  Anyway have a great night, folks.  Stay warm.  I know its been cold out there. Especially where I am at.  They say it’s supposed to rain tomorrow.&lt;/p&gt;
+&lt;h1&gt;More Technical Ch-ch-ch-changes&lt;/h1&gt;
+&lt;p&gt;I wish I had trusted the past performance more.  Currently…but also this weekend when I create a new analysis report.&lt;/p&gt;
+&lt;p&gt;And that is called past-on-today.  Which takes the output of strategy-perf-overall (does not include today’s current trends) and calculates how well that would have performed if the top 10 strategies had been selected for purchase in strategiesEnabled.js.  It does this for both avgPercent (avg %) and percUp (% &gt; 0).  It also includes the current strategiesEnabled for comparison.&lt;/p&gt;
+&lt;p&gt;And in case your eyes and stomach have not had enough JSON…&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;node analysis&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;run past&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;on&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;today
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&quot;sortedByAvgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;9.423925925925927&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;didTodayArray&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;26.44&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;30.04&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;28.7&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;3.166666666666666&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.4766666666666666&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.6720000000000006&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.96&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.3899999999999997&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.094&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&quot;sortedByPercUp&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.1223571428571428&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;didTodayArray&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.10199999999999987&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.53&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.5899999999999999&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;1.5939999999999999&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.21249999999999997&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.368&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1.48&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&quot;strategies-enabled&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;avgTrend&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3.188974358974359&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;didTodayArray&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.602&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.692&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.692&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.3899999999999997&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.6720000000000006&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.8699999999999999&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.094&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.32&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.32&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.5899999999999999&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.9225&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.054999999999999966&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.21249999999999997&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;3.166666666666666&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.96&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.4766666666666666&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;2.152&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.8139999999999998&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;30.04&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;30.04&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;26.44&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.53&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.53&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;1.284&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;1.596&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;0.14600000000000002&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;What that means is that if I had just not manually selected which strategies to enable and just went with the top 10 of sortedByAvgTrend it would have actually trended 9.42%!  Gotcha suckas!&lt;/p&gt;
+&lt;p&gt;Come join the party at &lt;a href=&quot;https://github.com/chiefsmurph/robinhood-playground&quot;&gt;https://github.com/chiefsmurph/robinhood-playground&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why everybody (including myself) have been recommending you buy BPMX and AKER]]></title><description><![CDATA[If you spend just a minute browsing  penny   trading  forums online, you will undoubtably soon find that the internet is buzzing about two…]]></description><link>https://www.pennytraderlifestyle.com/why-i-am-long/</link><guid isPermaLink="false">https://www.pennytraderlifestyle.com/why-i-am-long/</guid><pubDate>Sat, 10 Mar 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;If you spend just a minute browsing &lt;a href=&quot;https://www.reddit.com/r/RobinHoodPennyStocks/&quot;&gt;penny&lt;/a&gt; &lt;a href=&quot;https://www.reddit.com/r/pennystocks/&quot;&gt;trading&lt;/a&gt; forums online, you will undoubtably soon find that the internet is buzzing about two biotech stocks in particular: BPMX and AKER.  These two stocks have been my main holds for the past few months.  In this article I would like to document why I think they are great holds in the short-term and long-term.&lt;/p&gt;
 &lt;p&gt;First off I should say I have relatively little interest in fundamental analysis of penny stocks.  Of course it is necessary to understand the company to determine whether I think a stock is undervalued, but I like to purchase stocks like these just because of their current prices and the sentiment behind them.  The real challenge with these are going to be deciding when to walk away.  Especially because I could see both of these companies having upward momentum in the long-term.  Analysts predictions are much more conservative then my own and that is going to create a tricky situation when the summer roles around.&lt;/p&gt;
 &lt;h2&gt;BPMX&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;first over the counter minocycline acne treatment&lt;/em&gt;&lt;/p&gt;
