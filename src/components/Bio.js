@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          all about trading penny stocks using Node.js (JavaScript).  If this website suddenly disappears, it means that I lost all my money in the stock market.&nbsp;
+          all about trading penny stocks mostly using Node.js (JavaScript) and also going by what sounds right.  If this website suddenly disappears, it means that I lost all my money in the stock market.&nbsp;
         </p>
       </div>
     )

@@ -73,9 +73,9 @@ overall
 
 ## Burrito Wrap Up
 
-Up 2.12%, not bad.  
+Of the purchases made today, up 2.12%- not bad.  
 
-Something that is worth to bear in mind is that this is being calculated after hours.  And these stocks are not necessarily going to be sold right in the morning, so they will undoubtably flunctuate tomorrow before they are sold or held for another day.  Currently it sells 50% of the stares of stocks that were purchased 1 day ago and the remaining shares the following day.  
+Something that is worth to bear in mind is that this is being calculated after hours.  And these stocks are not necessarily going to be sold right in the morning, so they will undoubtably fluctuate tomorrow before they are sold or held for another day.  Currently it sells 50% of the stares of stocks that were purchased 1 day ago and the remaining shares the following day.  
 
 Encouraging to see is the performance of based-on-jump-tenTo15...  You can see the big pick of the day was NETE which was a based-on-jump-tenTo15 pick:
 
@@ -223,7 +223,7 @@ I was going to do this tonight, but then I wrote this "article".  I might do it 
 
 ```
 
-When I look at that list of stocks, I see a list of tickers that nobody should be ashamed of.  TOPS and ENRJ and RAS and JRJR all have been doing well.  And NVCN is something that I think has long-term and short-term potential.  
+When I look at that list of stocks, I see a list of tickers that nobody should be ashamed of.  TOPS and ENRJ and RAS (top 3 of the group my personal favorites) and JRJR all have been doing well.  A few of these have > 10% days.  And NVCN is something that I think has long-term and short-term potential.  When you get this low you run the risk of the stock getting delisted unexpectedly.
 
 So I am curious how this strategy would perform?
 
@@ -233,7 +233,7 @@ The tricky part I have had with it is that executeStrategy is set up to run each
 
 I wish I had trusted the past performance more.  Currently...but also this weekend when I create a new analysis report.
 
-And that is called past-on-today.  Which takes the output of strategy-perf-overall (does not include today's current trends) and calculates how well that would have performed if the top 10 strategies had been selected for purchase in strategiesEnabled.js.  It does this for both avgPercent (avg %) and percUp (% > 0).  It also includes the current strategiesEnabled for comparison.
+And that is called past-on-today.  Which takes the output of strategy-perf-overall (does not include today's current trends) and - by using the output of strategy-perf-today - calculates how well that would have performed if the top 10 strategies had been selected for purchase in strategiesEnabled.js.  It does this for both avgPercent (avg %) and percUp (% > 0).  It also includes the current strategiesEnabled for comparison.  To do so required the need to module.export a module instead of running it from the command line.
 
 And in case your eyes and stomach have not had enough JSON...
 
